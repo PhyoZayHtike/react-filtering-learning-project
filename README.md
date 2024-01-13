@@ -1,3 +1,6 @@
+
+![Screenshot 2024-01-13 142944](https://github.com/PhyoZayHtike/react-filtering-learning-project/assets/143343820/11efc8bd-8ed8-4503-bcc1-43527edb4a21)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
